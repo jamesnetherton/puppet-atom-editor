@@ -1,0 +1,6 @@
+fixtures:
+  repositories:
+    "stdlib": "https://github.com/puppetlabs/puppetlabs-stdlib"
+    "apt": "https://github.com/puppetlabs/puppetlabs-apt"
+  symlinks:
+    "atom_editor": "#{source_dir}"
